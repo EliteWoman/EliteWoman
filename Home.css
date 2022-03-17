@@ -1532,6 +1532,11 @@
     margin-left: initial;
   }
 
+  .u-section-6 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
+
   .u-section-6 .u-icon-12 {
     margin-top: -81px;
     margin-left: 79px;
@@ -1561,7 +1566,7 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 766px;
+  min-height: 890px;
 }
 
 .u-section-7 .u-text-1 {
